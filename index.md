@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Ravina Kumari                                                                                 [LinkedIn](https://www.linkedin.com/in/ravina-kumari-76279616a/)
+##                                                                                        Bangalore(560099)
+
+                                                                                              
 
 You can use the [editor on GitHub](https://github.com/ravinaNG/ravinaNG.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
