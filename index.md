@@ -8,7 +8,6 @@ me in all steps which I took. After my 12th I got an opportunity to be a part of
 to become a Backend Engineer as I found my interest in technology.
 
 Academic Period Spent in **NavGurukul** So Far **17 Month**
-      
       Saral Request API [code](https://github.com/ravinaNG/request_in_python)
       **SARAL** is the eLearning platform of NavGurukul available on saral.navgurukul.org. I
       used **Request** library in python used for making an HTTP request for accessing the
