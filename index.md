@@ -2,30 +2,24 @@
 ## [LinkedIn](https://www.linkedin.com/in/ravina-kumari-76279616a/)
 ## Bangalore(560099)
 ## ravina18@navgurukul.org
-
 I come from a rural background where mostly girls are not encouraged to study. But my family supported
 me in all steps which I took. After my 12th I got an opportunity to be a part of Navgurukul and now I aspire
 to become a Backend Engineer as I found my interest in technology.
+Academic Period Spent in **NavGurukul** So Far   **17 Month**
 
 ## Projects (Python, Javascript and nodejs)
-Academic Period Spent in **NavGurukul** So Far **17 Month**
 ### Saral Request API [code](https://github.com/ravinaNG/request_in_python)
 **SARAL** is the eLearning platform of NavGurukul available on saral.navgurukul.org. I used **Request** library in python used for making an HTTP request for accessing the data of Saral.
-
 ### Hangman Game [code](https://github.com/ravinaNG/python/tree/master/python/HangMan)
 Implemented using **Python** to understand and implement best practices in coding.
 Classic Hangman game - guessing letters to prevent the man from hanging.
-
 ### Algorithmic problems in Python [code](https://github.com/ravinaNG/python)
 I have solved basic algorithmic problems and pattern problems from HackerRank and
 code signal and from saral in **Python**.
-
 ### KBC-Game [code](https://github.com/ravinaNG/python/blob/master/List/KBC_Game.py)
 A command line game of KBC for learning purposes using **Python**.
-
 ### Web Scraping [code](https://github.com/ravinaNG/Web-scraping-in-python)
 I have scraped some websites in **Python** like IMDB, NDTV, Paytm etc.
-
 ### Node.js [code](https://github.com/ravinaNG/Nodejs-2)
 I have a basic knowledge of **Node.js** also. In this I have done some logical questions
 like (sorting, pattern questions etc.). I did a little bit of crud and one project of
