@@ -3,6 +3,7 @@
 Bangalore(560099)
 ravina18@navgurukul.org
 
+
 I come from a rural background where mostly girls are not encouraged to study. But my family supported
 me in all steps which I took. After my 12th I got an opportunity to be a part of Navgurukul and now I aspire
 to become a Backend Engineer as I found my interest in technology.
