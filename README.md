@@ -28,7 +28,7 @@ sending mail.
 I tried creating a version of the popular Angry-birds game using **Node.js**.
 
 ## Experience
-###DISCO at Navgurukul
+### DISCO at Navgurukul
 I held the post of Discipline Coordinator. I maintained the discipline of Navgurukul and according to requirements I managed the rules. It was a great opportunity to improve leadership skills.
 ### IT Coordinator at Navgurukul
 As an IT coordinator, I managed the networking and IT infrastructure.
