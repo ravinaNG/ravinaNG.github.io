@@ -26,7 +26,7 @@ I have scraped some websites in **Python** like IMDB, NDTV, Paytm etc.
 I have a basic knowledge of **Node.js** also. In this I have done some logical questions
 like (sorting, pattern questions etc.). I did a little bit of crud and one project of
 sending mail.
-###Angry-Birds Game [code](https://github.com/ravinaNG/Angry-birds)
+### Angry-Birds Game [code](https://github.com/ravinaNG/Angry-birds)
 I tried creating a version of the popular Angry-birds game using **Node.js**.
 
 ## Experience
