@@ -10,7 +10,7 @@ to become a Backend Engineer as I found my interest in technology.
 ##### Academic Period Spent in **NavGurukul** So Far   **17 Month**
 
 ## Projects (Python, Javascript and nodejs)
-   -       ### Saral Request API [code](https://github.com/ravinaNG/request_in_python)
+   - ### Saral Request API [code](https://github.com/ravinaNG/request_in_python)
 **SARAL** is the eLearning platform of NavGurukul available on saral.navgurukul.org. I used **Request** library in python used for making an HTTP request for accessing the data of Saral.
 ### Hangman Game [code](https://github.com/ravinaNG/python/tree/master/python/HangMan)
 Implemented using **Python** to understand and implement best practices in coding.
