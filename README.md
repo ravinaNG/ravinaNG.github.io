@@ -30,7 +30,7 @@ sending mail.
 I tried creating a version of the popular Angry-birds game using **Node.js**.
 
 ## Experience
-### DISCO at Navgurukul
+-  ### DISCO at Navgurukul
 I held the post of Discipline Coordinator. I maintained the discipline of Navgurukul and according to requirements I managed the rules. It was a great opportunity to improve leadership skills.
 ### IT Coordinator at Navgurukul
 As an IT coordinator, I managed the networking and IT infrastructure.
@@ -46,7 +46,7 @@ I took algebra Interviews for Navgurukul candidates.
 I have been selected as a mentor for 7 students in NavGurukul. From this, I have learned how to debug codes that help me in enhancing my knowledge. It helps me in revising my codes too.
 
 ## Education
-### NavGurukul
+-  ### NavGurukul
 Learning Software Engineering with one-year residential programme and also learning many social & teamwork related skills.
 
 ### +2 Project High School Dhantola (Kishanganj, Bihar)
