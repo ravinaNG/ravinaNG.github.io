@@ -1,4 +1,4 @@
-## Ravina Kumari  
+## Ravina Kumari (Python and Node.js Developer)  
 Bangalore (560099),
 ravina18@navgurukul.org,
 ([LinkedIn](https://www.linkedin.com/in/ravina-kumari-76279616a/)),
