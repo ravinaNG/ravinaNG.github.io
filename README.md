@@ -15,7 +15,7 @@ to become a Backend Engineer as I found my interest in technology.
    **SARAL** is the eLearning platform of NavGurukul available on saral.navgurukul.org. I used **Request** library in python used for making an HTTP request for accessing the data of Saral.
 - ### Request in Axios ([code](https://github.com/ravinaNG/request_in_axios))
    The same thing like **Saral Request API** I have used popular JavaScript library **axios** in node.js for making an HTTP request for accessing the data of saral.
-- ### **Hangman Game ([code](https://github.com/ravinaNG/python/tree/master/python/HangMan))**
+- ### **Hangman Game ([code](https://github.com/ravinaNG/HangMan/tree/master))**
   Implemented using **Python** to understand and implement best practices in coding.
 Classic Hangman game - guessing letters to prevent the man from hanging.
 - ### **Algorithmic problems in Python ([code](https://github.com/ravinaNG/python))**
