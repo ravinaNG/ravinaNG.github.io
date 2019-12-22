@@ -44,7 +44,7 @@ code signal and from saral in **Python**.
 - ### **Admissions Team Member**
   I took algebra Interviews for Navgurukul candidates.
 - ### **Mentorship**
-  I have been selected as a mentor for students in NavGurukul. From this, I have learned how to debug codes that help me in enhancing my knowledge. It helps me in revising my codes too.
+  I have been selected as a mentor for 6 - 7 students in NavGurukul. From this, I have learned how to debug codes that help me in enhancing my knowledge. It helps me in revising my codes too.
 
 ## Education
 - ### **NavGurukul**
