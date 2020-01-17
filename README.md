@@ -29,6 +29,8 @@ code signal and from saral in **Python**.
   In this I have done some logical questions like (sorting, pattern questions etc.). I did a little bit of crud and one project of sending mail.
 - ### **Angry-Birds Game ([code](https://github.com/ravinaNG/Angry-birds))**
   I tried creating a version of the popular Angry-birds game using **Node.js**.
+- ### **Turing Project ([code](https://github.com/ravinaNG/turing_project))**
+  Crud operations with mysql in **node.js**
 
 ## Experience
 - ### **DISCO at Navgurukul**
