@@ -30,7 +30,7 @@ code signal and from saral in **Python**.
 - ### **Angry-Birds Game ([code](https://github.com/ravinaNG/Angry-birds))**
   I tried creating a version of the popular Angry-birds game using **Node.js**.
 - ### **Turing Project ([code](https://github.com/ravinaNG/turing_project))**
-  Crud operations with mysql in **node.js**
+  Crud operations with mysql in **Node.js**
 
 ## Experience
 - ### **DISCO at Navgurukul**
