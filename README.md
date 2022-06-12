@@ -2,7 +2,7 @@
 Bangalore (560099),
 ravina18@navgurukul.org,
 ([LinkedIn](https://www.linkedin.com/in/ravina-kumari-76279616a/)),
-+91 6204141705
++91 62********05
 
 
 I come from a rural background where mostly girls are not encouraged to study. But my family supported
